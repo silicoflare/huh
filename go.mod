@@ -1,4 +1,4 @@
-module github.com/charmbracelet/huh
+module github.com/silicoflare/huh
 
 go 1.23.0
 
