@@ -146,6 +146,8 @@ func (m *MultiSelect[T]) selectOptions() {
 		}
 	}
 
+	return
+
 	for i, o := range m.options.val {
 		if !o.selected {
 			continue
